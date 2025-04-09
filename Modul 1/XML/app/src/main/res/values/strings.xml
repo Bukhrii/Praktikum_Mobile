@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceXML</string>
+    <string name="roll">Roll</string>
+    <string name="image_description">Dice</string>
+</resources>
