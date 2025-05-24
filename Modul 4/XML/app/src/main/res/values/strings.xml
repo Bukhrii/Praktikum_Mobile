@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Book List</string>
+
+    <string name="beli_button">Beli Buku</string>
+    <string name="detail_button">Detail</string>
+    <string name="about">Tentang: </string>
+
+    <string name="book_about1">Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS.</string>
+    <string name="book_about2">Novel Laut Bercerita mengisahkan tentang sekelompok mahasiswa yang mengalami tragedi pada masa peralihan dari Orde Baru ke Reformasi</string>
+    <string name="book_about3">Dalam dunia yang penuh pengawasan dan propaganda ini, Partai mengendalikan semua aspek kehidupan warganya. Kehidupan pribadi dan pemikiran individu diawasi oleh Big Brother, figur misterius yang menjadi simbol kekuasaan absolut Partai.</string>
+    <string name="book_about4">Madilog merupakan karya terbaik dari Bapak Republik Indonesia Tan Malaka yang menjelaskan tentang materialisme dialektika dan logika.</string>
+    <string name="book_about5">Novel ini menceritakan tokoh utama bernama Haji Murad. Ia seorang pejuang Chechnya yang pemberani. Novel ini berlatar belakang perang antara Kekaisaran Rusia dan suku-suku pejuang Kaukasus</string>
+    <string name="book_about6">Animal farm adalah sebuah novel yang menceritakan tentang hewan-hewan di Peternakan Manor milik Tuan Jones.</string>
+    <string name="book_about7">Novel Anak Semua Bangsa, Tokoh Minke, yang di dalam Bumi Manusia memiliki pola pikir kaum terdidik Belanda, mulai berubah menjadi Minke, yang sadar akan nasib kaum bumi putera.</string>
+    <string name="book_about8">"Babel" berpusat pada seorang tokoh utama bernama Robin Swift. Di Babel, Robin menemukan bahwa bahasa memiliki kekuatan magis yang dapat mempengaruhi dunia nyata.</string>
+
+    <string name="book_title1">Bumi Manusia</string>
+    <string name="book_title2">Laut Bercerita</string>
+    <string name="book_title3">1984</string>
+    <string name="book_title4">Madilog</string>
+    <string name="book_title5">Haji Murad</string>
+    <string name="book_title6">Animal Farm</string>
+    <string name="book_title7">Anak Semua Bangsa</string>
+    <string name="book_title8">Babel</string>
+
+    <string name="book_year1">1980</string>
+    <string name="book_year2">2017</string>
+    <string name="book_year3">1949</string>
+    <string name="book_year4">1943</string>
+    <string name="book_year5">1917</string>
+    <string name="book_year6">1945</string>
+    <string name="book_year7">1981</string>
+    <string name="book_year8">2022</string>
+
+    <string name="book_webUrl1">https://www.tokopedia.com/vardahvarisha/unik-original-buku-bumi-manusia-pramoedya-ananta-toer-limited?extParam=ivf%3Dfalse%26keyword%3Dbumi+manusia+original%26search_id%3D2025050206192814169A0395F3C1077XMS%26src%3Dsearch</string>
+    <string name="book_webUrl2">https://www.tokopedia.com/gramedia-store/buku-laut-bercerita-leila-s-chudori-gramedia-1729383067841627654?extParam=ivf%3Dfalse%26keyword%3Dbuku+laut+bercerita%26search_id%3D2025050206205604A26D2375B1051FAQ1Y%26src%3Dsearch%26whid%3D17485137</string>
+    <string name="book_webUrl3">https://www.tokopedia.com/mizan-store-official/buku-1984-george-orwell?extParam=ivf%3Dtrue%26keyword%3D1984+george+orwell%26search_id%3D20250502063124128D5CAE00320220AULQ%26src%3Dsearch%26whid%3D11549000</string>
+    <string name="book_webUrl4">https://shopee.co.id/Madilog-Tan-Malaka-(Original)-i.3813657.255788955</string>
+    <string name="book_webUrl5">https://shopee.co.id/Hadji-Murad-Leo-Tolstoy-i.50771306.9909128677</string>
+    <string name="book_webUrl6">https://www.tokopedia.com/gramedia-store/animal-farm-new?extParam=ivf%3Dfalse%26keyword%3Danimal+farm%26search_id%3D2025050206343730BCD189704A642E8W11%26src%3Dsearch%26whid%3D17485137</string>
+    <string name="book_webUrl7">https://www.tokopedia.com/senanghati05/buku-pramoedya-ananta-toer-anak-semua-bangsa-1730906194514445673?extParam=ivf%3Dfalse%26keyword%3Danak+semua+bangsa%26search_id%3D20250502063520B1CB1720A014DE1D3RV2%26src%3Dsearch</string>
+    <string name="book_webUrl8">https://www.tokopedia.com/shiramedia/shira-media-babel-atau-pertumpahan-darah-sejarah-gelap-revolusi-penerjemah-oxford-r-f-kuang-novel-terjemahan-dark-academia-1729634998791473064?extParam=ivf%3Dfalse%26keyword%3Dbabel+kuang%26search_id%3D20250502063555128D5CAE00320222EGFE%26src%3Dsearch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
